@@ -3,7 +3,6 @@ Welcome to my github, here you will find my projects including my halo infinite 
 # Projects
 ## Halo Infinite
 ### Maps
-[Escape the Autumn | Campaign Ops (Coming Soon)]() <br>
 [Arctic Point | Firefight Ops (Coming Soon)]() <br>
 [Hydro Station | Firefight Ops (Waypoint)](https://www.halowaypoint.com/halo-infinite/ugc/maps/e9ebc90a-bac5-4c68-85e0-a39521d299e3) <br>
 [New Mombasa | AI BTB (Waypoint) (WIP)](https://www.halowaypoint.com/halo-infinite/ugc/maps/86d5d72b-7c76-4ab4-b5a7-2c3bada1333b) <br>
